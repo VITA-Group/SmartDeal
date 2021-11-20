@@ -1,0 +1,13 @@
+**/__pycache__/
+**/.vs/
+**/data/
+**/results/
+**/runs/
+**/.ipynb_checkpoints/
+**/*.sh
+**/*.zip
+**/*.tar
+**/*.pdf
+**/*.ipynb
+tmp/
+
